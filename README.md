@@ -1,7 +1,7 @@
 # Salut, moi c'est Lino !
 
 ### >> Étudiant en MMI & Aspirant Développeur Web
-Passionné par la fusion entre le **Design (UX/UI)** et le **Code**, je transforme des maquettes Figma en expériences web performantes et accessibles.
+:3
 
 ---
 
