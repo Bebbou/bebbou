@@ -1,6 +1,6 @@
 # Salut, moi c'est Lino !
 
-### >> Étudiant en MMI & Aspirant Développeur Web
+### >> Étudiant en MMI & Aspirant Ingénieur logiciel
 :3
 
 ---
