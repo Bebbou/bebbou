@@ -27,7 +27,7 @@ Jeu 2D en Phaser.js, en cours de développement.
 ### `>> stack`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,figma,ps&theme=dark" alt="html, css, javascript, php, mysql, git, figma, photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,figma,ps,vscode,bootstrap,nodejs&theme=dark" alt="html, css, javascript, php, mysql, git, figma, photoshop, vs code, bootstrap, node.js" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ Jeu 2D en Phaser.js, en cours de développement.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bebbou&theme=dracula&no-frame=true&margin-w=8&row=1&column=6" alt="trophées github" />
+  <img src="https://streak-stats.demolab.com/?user=Bebbou&theme=dark&background=0D0D0D&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&border=333333" alt="streak de contributions github" />
 </p>
 
 ---

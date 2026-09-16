@@ -19,7 +19,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Bebbou
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg?color_snake=E0E0E0&color_dots=0D0D0D,4D0D22,801033,CC1A52,FF0055
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
