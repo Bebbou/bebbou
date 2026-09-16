@@ -10,17 +10,28 @@
 
 ### `>> projets`
 
-**MMI-ProNote**
-Un "ProNote-like" pour la promo MMI !
-→ [github.com/Bebbou/MMI-ProNote](https://github.com/Bebbou/MMI-ProNote)
-
-**Musée--FABI**
-Site du musée fictif "FABI" (Marseille) avec relation avec du backend (mon 1er backend)
-→ [github.com/Bebbou/Musee--FABI](https://github.com/Bebbou/Musee--FABI)
-
-**Projet-Phaser-R312**
-Jeu 2D en Phaser.js, j'travaille dessus...
-→ [github.com/Bebbou/Projet-Phaser-R312](https://github.com/Bebbou/Projet-Phaser-R312)
+<table>
+  <tr>
+    <th align="left">projet</th>
+    <th align="left">description</th>
+    <th align="left">stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Bebbou/MMI-ProNote"><b>MMI-ProNote</b></a></td>
+    <td>Un "ProNote-like" pour la promo MMI !</td>
+    <td><img src="https://skillicons.dev/icons?i=js,mysql&theme=dark" height="24" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Bebbou/Musee--FABI"><b>Musée--FABI</b></a></td>
+    <td>Site du musée fictif "FABI" (Marseille), mon 1er backend</td>
+    <td><img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" height="24" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Bebbou/Projet-Phaser-R312"><b>Projet-Phaser-R312</b></a></td>
+    <td>Jeu 2D en Phaser.js, en cours de développement</td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" height="24" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -48,15 +59,15 @@ Jeu 2D en Phaser.js, j'travaille dessus...
 
 <p align="left">
   <a href="https://bebbou.github.io/PortFolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF0055" alt="Portfolio" />
-  </a><br/>
+    <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF0055" alt="Portfolio" height="45" />
+  </a><br/><br/>
   <a href="./assets/CV-Lino-Volle.pdf">
-    <img src="https://img.shields.io/badge/CV-0D0D0D?style=for-the-badge&logo=readdotcv&logoColor=FF0055" alt="CV" />
-  </a><br/>
+    <img src="https://img.shields.io/badge/CV-0D0D0D?style=for-the-badge&logo=readdotcv&logoColor=FF0055" alt="CV" height="45" />
+  </a><br/><br/>
   <a href="https://www.linkedin.com/in/lino-volle/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF0055" alt="LinkedIn" />
-  </a><br/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF0055" alt="LinkedIn" height="45" />
+  </a><br/><br/>
   <a href="mailto:lino.volle.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF0055" alt="Mail" />
+    <img src="https://img.shields.io/badge/Mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF0055" alt="Mail" height="45" />
   </a>
 </p>
