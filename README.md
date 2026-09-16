@@ -46,6 +46,6 @@ Jeu 2D en Phaser.js, en cours de développement.
 
 ### `>> contact`
 
-`portfolio` → [bebbou.github.io/PortFolio](https://bebbou.github.io/PortFolio/)
-`linkedin` → [Lino Volle](https://www.linkedin.com/in/lino-volle/)
-`mail` → lino.volle.dev@gmail.com
+`portfolio` → [bebbou.github.io/PortFolio](https://bebbou.github.io/PortFolio/) <br/>
+`linkedin` → [Lino Volle](https://www.linkedin.com/in/lino-volle/) <br/>
+`mail` → lino.volle.dev@gmail.com <br/>
