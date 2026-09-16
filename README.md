@@ -27,7 +27,7 @@ Jeu 2D en Phaser.js, en cours de développement.
 ### `>> stack`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,figma,ps,vscode,bootstrap,nodejs&theme=dark" alt="html, css, javascript, php, mysql, git, figma, photoshop, vs code, bootstrap, discord, node.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,figma,ps,vscode,bootstrap,netlify,discord,obsidian,react,nodejs&theme=dark" alt="html, css, javascript, php, mysql, git, figma, photoshop, vs code, bootstrap, node.js" />
 </p>
 
 ---
