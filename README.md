@@ -2,14 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=150&section=header&text=LINO%20VOLLE&fontColor=FF0055&fontSize=40&fontAlignY=45&desc=%C3%A9tudiant%20en%20mmi%20%E2%80%94%20aspirant%20ing%C3%A9nieur%20logiciel&descAlignY=68&descSize=16&descColor=E0E0E0" alt="Lino Volle — étudiant en MMI, aspirant ingénieur logiciel" width="100%" />
 
+<img src="https://komarev.com/ghpvc/?username=Bebbou&color=ff0055&style=flat-square&label=vu+sur+le+profil" alt="vu sur le profil" />
+
 </div>
-
----
-
-### `>> en ce moment`
-
-- un jeu 2D avec Phaser.js
-- MMI-ProNote, un ProNote-like pour ma promo
 
 ---
 
