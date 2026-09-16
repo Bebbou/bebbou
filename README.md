@@ -27,7 +27,7 @@ Jeu 2D en Phaser.js, en cours de développement.
 ### `>> stack`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,figma,ps,vscode,bootstrap,netlify,discord,obsidian,react,nodejs&theme=dark" alt="html, css, javascript, php, mysql, git, figma, photoshop, vs code, bootstrap, node.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,figma,ps,vscode,bootstrap,netlify,discord,obsidian,react,nodejs&theme=dark" alt="html, css, javascript, php, mysql, git, figma, photoshop, vs code, bootstrap, netlify, discord, obsidian, react, node.js" />
 </p>
 
 ---
@@ -46,11 +46,6 @@ Jeu 2D en Phaser.js, en cours de développement.
 
 ### `>> contact`
 
-<<<<<<< Updated upstream
-`portfolio` → [bebbou.github.io/PortFolio](https://bebbou.github.io/PortFolio/) <br/>
-`linkedin` → [Lino Volle](https://www.linkedin.com/in/lino-volle/) <br/>
-`mail` → lino.volle.dev@gmail.com <br/>
-=======
 <p align="left">
   <a href="https://bebbou.github.io/PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF0055" alt="Portfolio" />
@@ -62,4 +57,3 @@ Jeu 2D en Phaser.js, en cours de développement.
     <img src="https://img.shields.io/badge/Mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF0055" alt="Mail" />
   </a>
 </p>
->>>>>>> Stashed changes
