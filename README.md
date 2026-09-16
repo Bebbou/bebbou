@@ -4,8 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Bebbou&color=ff0055&style=flat-square&label=vu+sur+le+profil" alt="vu sur le profil" />
 
-<img src="https://img.shields.io/badge/disponible_pour_stage_%2F_alternance-0D0D0D?style=flat-square&color=FF0055" alt="disponible pour stage / alternance" />
-
 </div>
 
 ---
@@ -13,15 +11,15 @@
 ### `>> projets`
 
 **MMI-ProNote**
-Un "ProNote-like" pour la promo MMI, plutôt côté dev.
+Un "ProNote-like" pour la promo MMI !
 → [github.com/Bebbou/MMI-ProNote](https://github.com/Bebbou/MMI-ProNote)
 
 **Musée--FABI**
-Site du musée fictif FABI (Marseille), fait en PHP.
+Site du musée fictif "FABI" (Marseille) avec relation avec du backend (mon 1er backend)
 → [github.com/Bebbou/Musee--FABI](https://github.com/Bebbou/Musee--FABI)
 
 **Projet-Phaser-R312**
-Jeu 2D en Phaser.js, en cours de développement.
+Jeu 2D en Phaser.js, j'travaille dessus...
 → [github.com/Bebbou/Projet-Phaser-R312](https://github.com/Bebbou/Projet-Phaser-R312)
 
 ---
@@ -51,13 +49,13 @@ Jeu 2D en Phaser.js, en cours de développement.
 <p align="left">
   <a href="https://bebbou.github.io/PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF0055" alt="Portfolio" />
-  </a>
+  </a><br/>
   <a href="./assets/CV-Lino-Volle.pdf">
     <img src="https://img.shields.io/badge/CV-0D0D0D?style=for-the-badge&logo=readdotcv&logoColor=FF0055" alt="CV" />
-  </a>
+  </a><br/>
   <a href="https://www.linkedin.com/in/lino-volle/">
     <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF0055" alt="LinkedIn" />
-  </a>
+  </a><br/>
   <a href="mailto:lino.volle.dev@gmail.com">
     <img src="https://img.shields.io/badge/Mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF0055" alt="Mail" />
   </a>
