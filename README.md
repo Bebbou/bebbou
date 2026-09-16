@@ -46,6 +46,20 @@ Jeu 2D en Phaser.js, en cours de développement.
 
 ### `>> contact`
 
+<<<<<<< Updated upstream
 `portfolio` → [bebbou.github.io/PortFolio](https://bebbou.github.io/PortFolio/) <br/>
 `linkedin` → [Lino Volle](https://www.linkedin.com/in/lino-volle/) <br/>
 `mail` → lino.volle.dev@gmail.com <br/>
+=======
+<p align="left">
+  <a href="https://bebbou.github.io/PortFolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF0055" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/lino-volle/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF0055" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lino.volle.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF0055" alt="Mail" />
+  </a>
+</p>
+>>>>>>> Stashed changes
