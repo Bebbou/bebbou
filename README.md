@@ -4,6 +4,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Bebbou&color=ff0055&style=flat-square&label=vu+sur+le+profil" alt="vu sur le profil" />
 
+<img src="https://img.shields.io/badge/disponible_pour_stage_%2F_alternance-0D0D0D?style=flat-square&color=FF0055" alt="disponible pour stage / alternance" />
+
 </div>
 
 ---
@@ -49,6 +51,9 @@ Jeu 2D en Phaser.js, en cours de développement.
 <p align="left">
   <a href="https://bebbou.github.io/PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF0055" alt="Portfolio" />
+  </a>
+  <a href="./assets/CV-Lino-Volle.pdf">
+    <img src="https://img.shields.io/badge/CV-0D0D0D?style=for-the-badge&logo=readdotcv&logoColor=FF0055" alt="CV" />
   </a>
   <a href="https://www.linkedin.com/in/lino-volle/">
     <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF0055" alt="LinkedIn" />
