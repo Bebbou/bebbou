@@ -1,32 +1,56 @@
-# Salut, moi c'est Lino !
+<div align="center">
 
-### >> Étudiant en MMI & Aspirant Ingénieur logiciel
-:3
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=150&section=header&text=LINO%20VOLLE&fontColor=FF0055&fontSize=40&fontAlignY=45&desc=%C3%A9tudiant%20en%20mmi%20%E2%80%94%20aspirant%20ing%C3%A9nieur%20logiciel&descAlignY=68&descSize=16&descColor=E0E0E0" alt="Lino Volle — étudiant en MMI, aspirant ingénieur logiciel" width="100%" />
 
----
-
-### >> Outils
-
-**Front-end** 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Back-end & Outils** 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Design** 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+</div>
 
 ---
 
+### `>> en ce moment`
+
+- un jeu 2D avec Phaser.js
+- MMI-ProNote, un ProNote-like pour ma promo
+
 ---
 
-###  Me contacter 
-- **Portfolio :** [bebbou.github.io/PortFolio/](https://bebbou.github.io/PortFolio/)
-- **LinkedIn :** [Lino Volle](https://www.linkedin.com/in/lino-volle/)
-- **Email :** lino.volle.dev@gmail.com
+### `>> projets`
 
+**MMI-ProNote**
+Un "ProNote-like" pour la promo MMI, plutôt côté dev.
+→ [github.com/Bebbou/MMI-ProNote](https://github.com/Bebbou/MMI-ProNote)
+
+**Musée--FABI**
+Site du musée fictif FABI (Marseille), fait en PHP.
+→ [github.com/Bebbou/Musee--FABI](https://github.com/Bebbou/Musee--FABI)
+
+**Projet-Phaser-R312**
+Jeu 2D en Phaser.js, en cours de développement.
+→ [github.com/Bebbou/Projet-Phaser-R312](https://github.com/Bebbou/Projet-Phaser-R312)
+
+---
+
+### `>> stack`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,figma,ps&theme=dark" alt="html, css, javascript, php, mysql, git, figma, photoshop" />
+</p>
+
+---
+
+### `>> activité`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bebbou/Bebbou/output/github-snake.svg" alt="graphique de contributions animé" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bebbou&theme=dracula&no-frame=true&margin-w=8&row=1&column=6" alt="trophées github" />
+</p>
+
+---
+
+### `>> contact`
+
+`portfolio` → [bebbou.github.io/PortFolio](https://bebbou.github.io/PortFolio/)
+`linkedin` → [Lino Volle](https://www.linkedin.com/in/lino-volle/)
+`mail` → lino.volle.dev@gmail.com
